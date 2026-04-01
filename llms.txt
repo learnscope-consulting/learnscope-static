@@ -1,0 +1,44 @@
+# LearnScope
+> Evidence-based management consulting for K-12 school districts
+
+LearnScope designs research-driven tools and services to help district leaders build organizational capacity and deliver results for their communities. Founded by Adam Hogue, former SVP at BetterLesson, with degrees from Harvard College and Yale School of Management.
+
+## Core Framework: School System Capacity Model
+
+LearnScope's School System Capacity Model identifies three interdependent dimensions that determine whether a district can reliably translate investments into outcomes:
+
+- Clarity: The foundation for simplification, alignment, and focus. Districts with strong capacity have an unusually clear picture of what they are trying to accomplish, who is responsible for what, and how they will know if their efforts are working.
+- Coherence: The discipline of making clarity actionable. Programs, staffing, professional development, and resource allocation working in concert rather than in competition.
+- Collective Learning: The infrastructure that sustains capacity over time. Systems for monitoring implementation quality, feedback loops connecting classrooms to district decisions, and routines that help educators learn from one another.
+
+## Key Concepts
+
+- Initiative Debt: The accumulated organizational cost of adding programs, mandates, and initiatives without retiring, integrating, or adequately resourcing them. Similar to technical debt in software development.
+- The Perfect Program Myth: The belief that selecting the right evidence-based program is sufficient to produce outcomes, without attending to the organizational capacity required to implement it well.
+- The Autonomy Trap: When well-intentioned school-level autonomy produces system-wide fragmentation, making it harder for districts to learn, align, and improve.
+
+## Services
+
+- School System Capacity Lab: 4-week engagement with a full-day working session for individual district leaders to assess current system capacity and chart a path forward.
+- Cabinet Capacity Lab: 4-week engagement with a full-day working session for district leadership teams to build alignment and develop a shared capacity-building plan.
+- School System Capacity Assessment: 16-week consulting engagement to deeply analyze current state, collect input from key constituencies, and design a prioritized capacity-building roadmap.
+- School System Capacity Building: Ongoing support including strategic planning, operating model design, program management, impact measurement, and leadership coaching.
+
+## Pages
+
+- Homepage: https://www.learnscope.co/
+- About and Services: https://www.learnscope.co/about
+- Insights (Blog): https://www.learnscope.co/insights
+- School System Capacity Self-Assessment: https://www.learnscope.co/capacity-self-assessment
+- Contact: https://www.learnscope.co/contact
+
+## Blog Posts
+
+- Introducing LearnScope: https://www.learnscope.co/insights/introducing-learnscope
+- The K-12 System Capacity Crisis (Part 1): When Doing More Stops Working: https://www.learnscope.co/insights/the-k-12-system-capacity-crisis-part-1-when-doing-more-stops-working
+- The K-12 System Capacity Crisis (Part 2): Rebuilding School System Capacity: https://www.learnscope.co/insights/the-k-12-system-capacity-crisis-part-2-rebuilding-school-system-capacity
+
+## Contact
+
+- Email: info@learnscope.co
+- Scheduling: https://calendly.com/adam-learnscope/30min
