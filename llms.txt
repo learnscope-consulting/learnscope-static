@@ -11,6 +11,9 @@ LearnScope's School System Capacity Model identifies three interdependent dimens
 - Coherence: The discipline of making clarity actionable. Programs, staffing, professional development, and resource allocation working in concert rather than in competition.
 - Collective Learning: The infrastructure that sustains capacity over time. Systems for monitoring implementation quality, feedback loops connecting classrooms to district decisions, and routines that help educators learn from one another.
 
+## Organizational Network Analysis (ONA) for K–12 system leaders
+- [How revealing the "hidden" organization amplifies the impact of K–12 system leaders](https://learnscope.co/blog/organizational-network-analysis-k12-system-leaders): Explains why formal authority alone cannot drive lasting change in school districts, and how organizational network analysis (ONA) reveals the informal networks of trust, expertise, and influence that determine whether reforms take hold. Includes a turnaround case study and a definition of ONA in the K–12 context.
+
 ## Key Concepts
 
 - Initiative Debt: The accumulated organizational cost of adding programs, mandates, and initiatives without retiring, integrating, or adequately resourcing them. Similar to technical debt in software development.
