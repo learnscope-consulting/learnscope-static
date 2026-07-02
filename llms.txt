@@ -53,6 +53,10 @@ Learning) and organizational network analysis (ONA).
 - Insights (Blog): https://www.learnscope.co/insights
 - School System Capacity Self-Assessment: https://www.learnscope.co/capacity-self-assessment
 - Contact: https://www.learnscope.co/contact
+- OrgScope (for incoming superintendents): https://www.learnscope.co/orgscope
+- ChangeScope (for chief academic officers): https://www.learnscope.co/changescope
+- TalentScope (for chief talent officers): https://www.learnscope.co/talentscope
+- VendorScope (for chief operating officers): https://www.learnscope.co/vendorscope
 
 ## Blog Posts
 
