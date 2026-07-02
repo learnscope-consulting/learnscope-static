@@ -22,15 +22,34 @@ LearnScope's School System Capacity Model identifies three interdependent dimens
 
 ## Services
 
-- School System Capacity Lab: 4-week engagement with a full-day working session for individual district leaders to assess current system capacity and chart a path forward.
-- Cabinet Capacity Lab: 4-week engagement with a full-day working session for district leadership teams to build alignment and develop a shared capacity-building plan.
-- School System Capacity Assessment: 16-week consulting engagement to deeply analyze current state, collect input from key constituencies, and design a prioritized capacity-building roadmap.
-- School System Capacity Building: Ongoing support including strategic planning, operating model design, program management, impact measurement, and leadership coaching.
+LearnScope offers four persona-specific diagnostic engagements, all built on the
+School System Capacity Model (three lenses: Clarity, Coherence, Collective
+Learning) and organizational network analysis (ONA).
+
+- [OrgScope](https://www.learnscope.co/orgscope): An evidence-based district
+  diagnostic for incoming and interim superintendents. Maps the formal and
+  hidden organization and grounds a first-180-days entry plan in data rather
+  than listening tours alone.
+
+- [ChangeScope](https://www.learnscope.co/changescope): An implementation-
+  readiness diagnostic for chief academic officers launching high-stakes
+  initiatives such as curriculum adoptions. Aligns vision, systems, and
+  educator networks so new programs translate into classroom practice.
+
+- [TalentScope](https://www.learnscope.co/talentscope): A talent-strategy
+  diagnostic for chief talent officers. Assesses the educator talent pipeline,
+  surfaces burnout and retention risk through network analysis, and supports a
+  proactive talent strategy.
+
+- [VendorScope](https://www.learnscope.co/vendorscope): A vendor and edtech
+  portfolio diagnostic for chief operating officers. Audits tools, contracts,
+  and usage data to reduce vendor sprawl, find consolidation opportunities,
+  and reinvest in what works.
 
 ## Pages
 
 - Homepage: https://www.learnscope.co/
-- About and Services: https://www.learnscope.co/about
+- About: https://www.learnscope.co/about
 - Insights (Blog): https://www.learnscope.co/insights
 - School System Capacity Self-Assessment: https://www.learnscope.co/capacity-self-assessment
 - Contact: https://www.learnscope.co/contact
